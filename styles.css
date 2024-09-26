@@ -8,7 +8,7 @@
 
 html{
     scroll-behavior: smooth;
-    background-color: #F7F8FA;
+    background-color: #faf8f7;
 }
 
 .left select{
@@ -262,9 +262,6 @@ footer a:hover {
     padding: 5px;
  }
 
- .links{
-    
- }
 
  .sticky-heading{
     padding-left: 10px;
